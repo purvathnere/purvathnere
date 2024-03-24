@@ -1,17 +1,13 @@
 <center>
   
-### Hi there 👋 , I'm PURVA ATHNERE
+## Hi there 👋 , I'm PURVA ATHNERE
 
 <br>
 
-  <center>
-    
 ![Alt text](git.png "dp")
 
-  </center>
-  
-
 </center>
+
 
 
 #### 👨🏻‍💻 About Me
