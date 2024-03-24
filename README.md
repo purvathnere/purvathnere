@@ -38,9 +38,9 @@ It helps me relax and have fun using my brain in different ways.
 
 ### Competitive Programming
 - C++❤️
+- DSA
 - Java
 - Started with Python
-- DSA
 
  # Frontend Development
   - HTML, CSS, and JS ✅
