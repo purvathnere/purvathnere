@@ -46,7 +46,9 @@ It helps me relax and have fun using my brain in different ways.
   - HTML, CSS, and JS ✅
   - Bootstrap
 
+
 ![Purva Athnere's GitHub Stats](https://github-readme-stats.vercel.app/api?username=purvathnere&show_icons=true&theme=radical)
+
 
 
 
