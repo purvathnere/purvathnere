@@ -10,7 +10,7 @@
 
 
 
-#### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me
 Hey there! I'm a third-year student studying Computer Science & Engineering. I really enjoy learning new things, especially when it's about technology.
 I like working with people who are better than me because it helps me improve. 
 I'm really into Java programming and solving coding problems.
