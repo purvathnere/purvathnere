@@ -26,9 +26,9 @@ It helps me relax and have fun using my brain in different ways.
 - 🌱 I’m currently learning [Technology/Subject]
 
 - 💬 Ask me about [Technology/Subject]
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: [Email]
 
-- ⚡ Fun fact: [Interesting Fact About You]
+- ⚡ Fun fact: [Interesting Fact]
 
 
 #### Languages and Tools:
