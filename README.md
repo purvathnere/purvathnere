@@ -24,11 +24,10 @@ It helps me relax and have fun using my brain in different ways.
 
 - 🔭 I’m currently working on [Project Name] with [Technology/Tool]
 - 🌱 I’m currently learning [Technology/Subject]
-- 👯 I’m looking to collaborate on [Project Type/Name]
-- 🤔 I’m looking for help with [Technology/Subject]
+
 - 💬 Ask me about [Technology/Subject]
 - 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
+
 - ⚡ Fun fact: [Interesting Fact About You]
 
 
@@ -50,13 +49,7 @@ It helps me relax and have fun using my brain in different ways.
   - HTML, CSS, and JS ✅
   - Bootstrap
 
-<p align="center">
-  <h2>Be my distraction 💯</h2>
-  <br>
-  <a href="https://github.com/your_username">GitHub</a> |
-  <a href="https://www.linkedin.com/in/your_linkedin_username">LinkedIn</a> |
-  <a href="mailto:your_email@example.com">Mail</a>
-</p>
+
 
 
 
