@@ -1,7 +1,8 @@
 <center>
+  
 ### Hi there 👋 , I'm PURVA ATHNERE
 
-
+<br>
   
 ![Alt text](git.png "dp")
 
