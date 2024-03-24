@@ -6,6 +6,8 @@
   
 ![Alt text](git.png "dp")
 
+</center>
+
 
 ## 👨🏻‍💻 About Me
 Hey there! I'm a third-year student studying Computer Science & Engineering. I really enjoy learning new things, especially when it's about technology.
@@ -26,5 +28,5 @@ It helps me relax and have fun using my brain in different ways.
 - 📫 How to reach me: [Your Email]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
-</center>
+
 
