@@ -3,8 +3,13 @@
 ### Hi there 👋 , I'm PURVA ATHNERE
 
 <br>
-  
+
+  <center>
+    
 ![Alt text](git.png "dp")
+
+  </center>
+  
 
 </center>
 
