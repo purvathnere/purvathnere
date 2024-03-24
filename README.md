@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm PURVA ATHNERE
-![Alt text](URL_of_the_image "Optional title")
+![Alt text](git.png "dp")
 
 
 <!--
