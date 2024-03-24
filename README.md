@@ -36,13 +36,13 @@ It helps me relax and have fun using my brain in different ways.
 
 # What I Know 💻
 
- <h3>Competitive Programming</h3>
+### Competitive Programming
 - C++❤️
 - Java
 - Started with Python
 - DSA
 
-<h3>Frontend Development</h3>
+ # Frontend Development
   - HTML, CSS, and JS ✅
   - Bootstrap
   
