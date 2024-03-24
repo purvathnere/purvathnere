@@ -2,17 +2,24 @@
 ![Alt text](git.png "dp")
 
 
-<!--
-**purvathnere/purvathnere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 About Me
+Hey there! I'm a third-year student studying Computer Science & Engineering. I really enjoy learning new things, especially when it's about technology.
+I like working with people who are better than me because it helps me improve. 
+I'm really into Java programming and solving coding problems.
+I also enjoy helping out my fellow students and joining community projects.
 
-Here are some ideas to get you started:
+Apart from this , I enjoy reading novels books and solving puzzles.
+It helps me relax and have fun using my brain in different ways.
 
-- 🔭 I'm currently working on CPU-Scheduling-Algorithms
-- 🌱 I’m currently learning DSA CONCEPT & JAVA SERVLET
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: purvathnere@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on [Project Name] with [Technology/Tool]
+- 🌱 I’m currently learning [Technology/Subject]
+- 👯 I’m looking to collaborate on [Project Type/Name]
+- 🤔 I’m looking for help with [Technology/Subject]
+- 💬 Ask me about [Technology/Subject]
+- 📫 How to reach me: [Your Email]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact About You]
+
+
