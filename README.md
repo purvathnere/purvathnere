@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋 , I'm PURVA ATHNERE
 ![Alt text](git.png "dp")
 
@@ -21,5 +22,5 @@ It helps me relax and have fun using my brain in different ways.
 - 📫 How to reach me: [Your Email]
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Interesting Fact About You]
-
+</center>
 
