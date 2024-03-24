@@ -50,10 +50,14 @@ It helps me relax and have fun using my brain in different ways.
   - HTML, CSS, and JS ✅
   - Bootstrap
 
-### Be my distraction 💯
-<br>
+<p align="center">
+  <h2>Be my distraction 💯</h2>
+  <br>
+  <a href="https://github.com/your_username">GitHub</a> |
+  <a href="https://www.linkedin.com/in/your_linkedin_username">LinkedIn</a> |
+  <a href="mailto:your_email@example.com">Mail</a>
+</p>
 
-🔗 [GitHub](https://github.com/your_username) | [LinkedIn](https://www.linkedin.com/in/your_linkedin_username) | [Mail](mailto:your_email@example.com)
 
 
 
