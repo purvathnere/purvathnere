@@ -14,7 +14,7 @@
 
 ### 👨🏻‍💻 About Me
 
-Hey !!! I'm a third-year student studying Computer Science & Engineering. I really enjoy learning new things, especially when it's about technology.
+Hey !!! I'm a pre-final year student studying Computer Science & Engineering. I really enjoy learning new things, especially when it's about technology.
 I like working with people who are better than me because it helps me improve. 
 I'm really into Java programming and solving coding problems.
 I also enjoy helping out my fellow students and joining community projects.
