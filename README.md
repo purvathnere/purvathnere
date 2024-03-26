@@ -1,6 +1,6 @@
 <center>
   
-## Hi there 👋 , I'm PURVA ATHNERE
+## Welcome to my Github Profile ! 👋
 
 <br>
 
