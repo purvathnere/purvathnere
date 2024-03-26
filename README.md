@@ -4,9 +4,10 @@
 
 <br>
 
+ <p align="center">
 ![Alt text](git.png "dp")
 
-</center>
+</p>
 
 
 
