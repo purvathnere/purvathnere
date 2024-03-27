@@ -10,9 +10,6 @@
 
 
 </p>
-<div style="text-align:center">
-    <img src="git.png" alt="Alt text" title="dp" />
-</div>
 
 
 
