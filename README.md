@@ -27,12 +27,12 @@ It helps me relax and have fun using my brain in different ways.
 
 
 - 🔭 I’m currently working on [Project Name] with [Technology/Tool]
-- 🌱 I’m currently learning [Technology/Subject]
+- 🌱 I’m currently learning JAVA SWING GUI .
 
-- 💬 Ask me about [Technology/Subject]
-- 📫 How to reach me: [Email]
 
-- ⚡ Fun fact: [Interesting Fact]
+- 📫 How to reach me: purvathnere@gmail.com
+
+- ⚡ Fun fact: 
 
 
 #### Languages and Tools:
