@@ -26,8 +26,8 @@ It helps me relax and have fun using my brain in different ways.
 
 
 
-- 🔭 I’m currently working on
-- 
+- 🔭 I’m currently working on [Project Name] .
+  
 - 🌱 I’m currently learning JAVA SWING GUI .
 
 
