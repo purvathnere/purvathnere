@@ -32,7 +32,7 @@ It helps me relax and have fun using my brain in different ways.
 
 - 📫 How to reach me: purvathnere@gmail.com
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact :
 
 
 #### Languages and Tools:
