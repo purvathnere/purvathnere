@@ -35,7 +35,7 @@ It helps me relax and have fun using my brain in different ways.
 
 - ⚡ Reminder : The only way to do great work is to love what you do .
 
-- Stay focused, eat healthy, and distance yourself from negative people who mentally hurt you .
+
 
 
 #### Languages and Tools:
