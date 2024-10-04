@@ -28,7 +28,7 @@ It helps me relax and have fun using my brain in different ways.
 
 - 🔭 I’m currently working on : 
   
-- 🌱 I’m currently learning JAVA SWING GUI .
+- 🌱 I’m currently learning JAVA FRAMEWORK .
 
 
 - 📫 How to reach me: purvathnere@gmail.com
