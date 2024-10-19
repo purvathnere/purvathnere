@@ -1,6 +1,6 @@
 <center>
   
-## Welcome to my Github Profile ! 👋
+<h1> <center>Welcome to my Github Profile ! 👋</center></h1>
 
 <h4>"  . . .   If you can dream it, you can achieve it. Get serious about your dream and achieve everything that you want . . . "</h4>
 
