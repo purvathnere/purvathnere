@@ -2,7 +2,7 @@
   
 ## Welcome to my Github Profile ! 👋
 
-<h2>If you can dream it, you can achieve it. Get serious about your dream and achieve everything that you want.</h2>
+<h4>"...If you can dream it, you can achieve it. Get serious about your dream and achieve everything that you want..."</h4>
 
 <br>
 
