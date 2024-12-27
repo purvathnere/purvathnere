@@ -53,7 +53,7 @@ It helps me relax and have fun using my brain in different ways.
 ### Competitive Programming
 - C++❤️
 - DSA
-- Java
+- Java Framwork
 - Started with Python
 
  ### Frontend Development
