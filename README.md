@@ -37,6 +37,8 @@ It helps me relax and have fun using my brain in different ways.
 - 📫 How to reach me: purvathnere@gmail.com
 
 - ⚡ Reminder : The only way to do great work is to love what you do .
+
+- Funfact About me : My mind is more creative at night.
   
 
 
