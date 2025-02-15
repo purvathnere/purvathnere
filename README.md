@@ -38,7 +38,7 @@ It helps me relax and have fun using my brain in different ways.
 
 - ⚡ Reminder : The only way to do great work is to love what you do .
 
-- Funfact About me : I think I am shy and a spy at the same time.
+- Funfact About me : I think I am shy and a spy at the same time 😉.
   
 
 
