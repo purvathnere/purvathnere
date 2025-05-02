@@ -4,7 +4,7 @@ I’m a passionate developer who loves building applications and exploring new t
 Currently, I'm focused on backend development, database management, and building full-stack applications.  
 I enjoy learning Spring Boot, Java, MySQL, and Thymeleaf to create scalable and user-friendly solutions.
 
----
+
 
 ## 🛠 Technologies I Work With
 
@@ -13,7 +13,7 @@ I enjoy learning Spring Boot, Java, MySQL, and Thymeleaf to create scalable and 
 **Database**: MySQL, MongoDB  
 **Version Control**: Git, GitHub
 
----
+
 
 ## 🚀 Projects I've Worked On
 
@@ -23,7 +23,7 @@ I have successfully built **10+ projects**, including:
 - **Personalized Learning App**: A learning platform for students, built using HTML, CSS, and JavaScript to improve education accessibility.
 - **AI Mock Buddy**: An AI-powered platform designed to simulate mock interviews for aspiring developers. Built using JavaScript and integrated with AI algorithms to provide real-time feedback and interview preparation.
 
----
+
 
 ## 🌱 What I'm Currently Learning
 
@@ -31,10 +31,10 @@ I have successfully built **10+ projects**, including:
 - Exploring JDBC for database connectivity in Java  
 - Developing real-time projects to enhance my skills and build my portfolio
 
----
+
 
 ## 📫 How to Reach Me
 
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Email**: purvathnere@gmail.com 
+- **LinkedIn**: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/purvathnere/)
 
