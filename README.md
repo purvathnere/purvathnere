@@ -4,7 +4,7 @@ I'm a final-year Computer Science student who loves coding and building useful p
 
 Currently, I’m focusing on backend development and preparing for job roles in 2025.
 
----
+
 
 ## 💻 Projects
 
