@@ -33,6 +33,6 @@ Worked on 10+ additional projects involving various technologies like Python, Ja
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📧 your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/purvathnere)  
+- 📧 purvathnere@gmail.com
 
