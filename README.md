@@ -31,8 +31,6 @@ Worked on 10+ additional projects involving various technologies like Python, Ja
 
 
 
-## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/purvathnere)  
 
 
